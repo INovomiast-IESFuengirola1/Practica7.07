@@ -313,7 +313,7 @@ Soy Iván y me despido hasta una futura practica.
 <p align="center">
   El script cabe una gran posibilidad de que no rinda al 100% por errores que estoy arreglando!
   
-  He usado: 0 comandos, 512 Lineas de Codigo y Texto en total y 5 horas de trabajo han sido requeridas para completar esto!.
+  He usado: "0 comandos", 512 Lineas de Codigo y Texto en total y 5 horas de trabajo han sido requeridas para completar esto!.
 </p>
 
 ### Propuesta de Corrección de la tarea:
