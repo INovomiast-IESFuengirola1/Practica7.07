@@ -312,4 +312,6 @@ Soy Iván y me despido hasta una futura practica.
 </p>
 
 ### Propuesta de Corrección de la tarea:
- Entrega de la nota mediante la edición de este archivo en Python: 
+ Entrega de la nota mediante la edición de este archivo: https://github.com/INovomiast-IESFuengirola1/Practica7.07/blob/main/correccion/c.ini
+ 
+ Editar dicho archivo en las lineas con un comentario empezado por #
