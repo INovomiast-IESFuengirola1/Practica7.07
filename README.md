@@ -310,3 +310,6 @@ Soy Iván y me despido hasta una futura practica.
   
   He usado: 0 comandos, 512 Lineas de Codigo y Texto en total y 5 horas de trabajo han sido requeridas para completar esto!.
 </p>
+
+### Propuesta de Corrección de la tarea:
+ Entrega de la nota mediante la edición de este archivo en Python: 
