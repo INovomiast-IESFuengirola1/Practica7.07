@@ -58,6 +58,7 @@ tendremos que navegar hasta el directorio de el REPOSITORIO:
 Como primer paso insertaremos el nombre del Directorio Base (En mi caso siendo Practica (Sin acento por el Case Sensitive))
 
 5. Ahora nos pedirá cuantos subdirectorios querremos crear adentro del Directorio Base (En mi caso son 3: Informes, Otros y Proyectos)
+
 ![imagen](https://user-images.githubusercontent.com/116105316/219830852-36a03d6e-c940-43f9-a064-625cfdfe0e1e.png)
 
 Aquí solo hay que indicarle un numero entero.
