@@ -113,6 +113,7 @@ Lo primero es entender la estructura de la como inicia este:
 
 Como habreis visto, al cumplirse esta condicion invocamos a la función tools(), la cual inicia la Herramienta, basada en CLI.
 
+
 La función tools() comienza de la siguiente manera:
 
 ~~~python
@@ -130,6 +131,7 @@ La función tools() comienza de la siguiente manera:
 
 Está seccion es la de creación de la base, donde nos da un input() y lo guarda en una variable, la cual después sera muy solicitada a lo largo del codigo
 así que, forma una buena amistad con ella, para así, no pillarle asco al final.
+
 
 ~~~python
  #Step 2: Take the quantity of child_folders to create:
@@ -171,6 +173,7 @@ Otra cosa notable es que nosotros para el mkdir estamos usando una concatenacion
 5. x // Variable x del bucle por la lista child_folder_names
 
 El bucle nos separará la lista en strings individuales y la función os.mkdir() nos creará el numero de directorios = n. Valores * lista
+
 
 Ahora hablemos sobre el tinglado que llevará crear 2 subdirectorios más y que el script localize todo y sepa donde ponerlo:
 
@@ -241,6 +244,7 @@ Aquí lo que hacemos es dividir la lista en indices, donde cada valor esta asign
 En este caso lo que hacemos es hacer un bucle por la lista para que nos arroje todos los valores por STRINGS individuales y después de esta lista pedimos los indices que van asignados a dicho valor.
 
 Para después comprobar que el valor proporcionado por el usuario sea el mismo que el indice del valor de la lista.
+
 
 Ahora lo que tenemos que hacer es crear las carpetas en el directorio asignado, pero ahora el ordenador lo que tiene son valores de una lista sin mero sentido, pero una vez son reasignadas despues de comprobar, pues permiten a la herramienta decir que valor tiene ese indice y sumarlo al directorio en el cual se crearan las carpetas.
 
